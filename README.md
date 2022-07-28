@@ -9,14 +9,16 @@
 >###### Actual plans
 > ⌛ I’m currently working on private company
 >
-> 🌱 ![](https://img.shields.io/badge/Laravel-60%25-de1b1b?style=flat-square)
-![](https://img.shields.io/badge/BootstrapVue-50%25-7c1bde?style=flat-square)
->###### Future plans
-> 🐍 Learning Python
+> 🌱 
 >
+>![](https://img.shields.io/badge/Laravel-60%25-de1b1b?style=flat-square)
+![](https://img.shields.io/badge/BootstrapVue-50%25-7c1bde?style=flat-square)
+![](https://img.shields.io/badge/Python-10%25-9cd92b?style=flat-square)
+>###### Future plans
 > 🌐 Update personal site
 
 ##### ⚙️ Languages and Tools
+![](https://img.shields.io/badge/python-454444?logo=python&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/php-454444?logo=php&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/phpstorm-454444?logo=phpstorm&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/HTML5-454444?logo=html5&logoColor=white&style=flat-square)
