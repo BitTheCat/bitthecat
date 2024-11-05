@@ -2,7 +2,7 @@
 
 - 🏫 I’m currently a student at the university
 - 🔭 I’m currently working on **private company**
-- 🌱 I’m currently learning **React Native** & **Python**
+- 🌱 I’m currently learning **React** & **Python**
 
 
 <h3 align="left">Languages and Tools:</h3>
