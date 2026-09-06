@@ -1,36 +1,58 @@
-<h1 align="center">Hi, I'm BitTheCat</h1>
+<h1 align="center">Hi, I'm BitTheCat 👋</h1>
+
 <p align="center">
-  University student • Web development
+  Software Engineer • University Student • Web Developer
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bitthecat&label=Profile%20views&color=0e75b6&style=flat" alt="BitTheCat profile views" />
+</p>
 
-### About me
-- 🎓 University student
-- 🔭 Currently working at <a href="https://github.com/halservice" target="_blank" rel="noreferrer">Hal Service</a>
-- 🌱 Currently learning <b>React</b> and <b>Python</b>
-- 🤖 Using GitHub Copilot for autocomplete and occasional CLI/agent-assisted workflows
+## About me
 
----
+- 🎓 University student at [UniTo — University of Turin](https://www.unito.it/)
+- 💼 Currently working as a **Software Engineer** at [Hal Service](https://github.com/halservice)
+- 💻 Focused on building modern web applications with Laravel and Vue.js
+- 🤖 Using AI as a supporting tool throughout the software development process
 
-### Languages &amp; Tools
-  <table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/></td>
-    <td><img src="https://www.chartjs.org/media/logo-title.svg" height="40" alt="Chart.js"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" alt="MariaDB"/></td>
-    <td></td>
-  </tr>
-</table>
+## Languages and tools
+
+<p align="center">
+  <a href="https://zed.dev/" title="Zed">
+    <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" />
+  </a>
+  <a href="https://vuejs.org/" title="Vue.js">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  </a>
+  <a href="https://laravel.com/" title="Laravel">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  </a>
+  <a href="https://filamentphp.com/" title="Filament">
+    <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logoColor=black" alt="Filament" />
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://mariadb.org/" title="MariaDB">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://www.php.net/" title="PHP">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+</p>
+
+## GitHub statistics
+
+<p align="center">
+  <img height="165" src="./profile-summary-card-output/transparent/3-stats.svg" alt="BitTheCat's GitHub statistics" />
+  <img height="165" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="BitTheCat's most used languages" />
+</p>
