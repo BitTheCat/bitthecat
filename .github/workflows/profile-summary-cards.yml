@@ -5,6 +5,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   generate:
@@ -20,12 +21,14 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           AUTO_PUSH: false
+          THEME: transparent
 
-      - name: Commit generated cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output
-          git diff --cached --quiet && exit 0
-          git commit -m "Update profile summary cards"
-          git push
+      - name: Create update pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ github.token }}
+          commit-message: Update profile summary cards
+          title: Update profile summary cards
+          body: Update the GitHub profile statistics generated from the latest repository data.
+          branch: automation/update-profile-summary-cards
+          delete-branch: true
