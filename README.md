@@ -53,6 +53,5 @@
 ## GitHub statistics
 
 <p align="center">
-  <img height="165" src="./profile-summary-card-output/transparent/3-stats.svg" alt="BitTheCat's GitHub statistics" />
-  <img height="165" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="BitTheCat's most used languages" />
+  <img height="165" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="BitTheCat's GitHub statistics" />
 </p>
